@@ -23,7 +23,10 @@
   This application lets you dynamically generate a readme file threw the command line.
   
 
-https://user-images.githubusercontent.com/109107643/233200665-cbec27ff-4fce-412e-ba4e-a57dce92c67f.mov
+
+https://user-images.githubusercontent.com/109107643/233201115-3d28f33b-01bc-4ecf-a335-1006a76648ee.mov
+
+
 
 
   ## Installation
