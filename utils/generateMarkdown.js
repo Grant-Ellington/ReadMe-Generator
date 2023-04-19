@@ -39,10 +39,10 @@ function generateMarkdown(data) {
   ## Installation
   ${data.installation}
 
-  ## Usage Information
+  ## Usage 
   ${data.usage}
   
-  ## Contribution Guidlines
+  ## Contribution 
   ${data.contributions} 
   
   ## Test
