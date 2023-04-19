@@ -73,7 +73,7 @@ fs.writeFile(fileName, markdownData, (err)=>{
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((data)=>{
-        writeToFile('README.md', data)
+        writeToFile('README1.md', data)
     })
 }
 
