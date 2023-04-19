@@ -16,29 +16,30 @@
   ![License](https://img.shields.io/badge/License-MIT-licenseblue.svg)
   
 
-  # g 
-  ### g
+  # README Generator
+  ### Grant
   
   ## Description
-  g
+  This application lets you dynamically generate a readme file threw the command line.
   
   ## Installation
+  To install, clone the repository and use node.js in the command line to generate a readme.
   
-
   ## Usage Information
+  This application is free to use. 
   
-  
-  ## Contribution Guidlines
+  ## Contribution Guid-lines
+  See the license for contributions.
    
   
   ## Test
-  
+  No test were used.
   
   ## Questions
   For any questions, use the contacts below.
   
-  [email]()
+  [email](gellingtonem6@gmail.com)
   
-  [GitHub](https://github.com/)
+  [GitHub](https://github.com/Grant-Ellington)
   
 
