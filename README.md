@@ -22,6 +22,10 @@
   ## Description
   This application lets you dynamically generate a readme file threw the command line.
   
+
+https://user-images.githubusercontent.com/109107643/233200665-cbec27ff-4fce-412e-ba4e-a57dce92c67f.mov
+
+
   ## Installation
   To install, clone the repository and use node.js in the command line to generate a readme.
   
