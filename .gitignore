@@ -105,3 +105,6 @@ dist
 
 # Ds store
 .DS_Store
+
+# Readme
+ README.md

@@ -27,7 +27,7 @@ function generateMarkdown(data) {
   
   ## License
   
-  ![License](https://img.shields.io/badge/License-${data.license}-data.licenseblue.svg)
+  ![License](https://img.shields.io/badge/License-${data.license}-licenseblue.svg)
   
 
   # ${data.title} 
@@ -43,14 +43,16 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## Contribution Guidlines
-  ${data.contribution} 
+  ${data.contributions} 
   
   ## Test
-  ${data.test}
+  ${data.tests}
   
   ## Questions
   For any questions, use the contacts below.
+  
   [email](${data.email})
+  
   [GitHub](https://github.com/${data.github})
   
 
